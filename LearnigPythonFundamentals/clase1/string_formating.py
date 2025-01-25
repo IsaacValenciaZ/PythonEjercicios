@@ -6,5 +6,5 @@ print(message)
 
 
 #F-String
-message = f'Si quiero aprobar mis materias, la calificacion minima es {score}'
+message = f'Si quiero  aprobar mis materias, la calificacion minima es {score}'
 print(message)

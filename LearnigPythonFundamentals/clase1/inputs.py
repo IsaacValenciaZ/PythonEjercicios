@@ -7,7 +7,7 @@ total_pets = eval(input("¿Cuantas mascotas tienes?")) #lo tranforma a otro tipo
 university = input("¿Cual es tu Universidad?")
 
 
-print(f"Hola me llamo {name}, mi edad es {age} y el nombre de mi universidad es {university}")
+print(f"Hola me llam o {name}, mi edad es {age} y el nombre de mi universidad es {university}")
 
 print(type(name))
 print(type(age))

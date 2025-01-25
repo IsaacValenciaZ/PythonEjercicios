@@ -4,7 +4,7 @@ numero_y = 20
 address_id_x = id(numero_x)
 address_id_y = id(numero_y)
 
-print(" *** Antes de actualizar la variable x ***")
+print(" *** Antes de  actualizar la variable x ***")
 print(address_id_x)
 print(address_id_y)
 
