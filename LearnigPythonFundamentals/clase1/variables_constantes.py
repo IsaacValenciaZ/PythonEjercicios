@@ -1,6 +1,6 @@
 #variable generada de forma implicita
 
-from clase1.hello_world import message
+#from clase1.hello_world import message
 message = "Hello Python World " #fines de lectura rapido de codigo
 
 
